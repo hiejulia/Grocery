@@ -6,7 +6,7 @@ App used for cashier in stores, supermarkets that calculate and manage the produ
 Authentication (sign in and log in ) users, Heroku hosting.
 Profile for each users.
 ###Technologies used:
-ReactJS, MongoDB, mongoose, Flux, NPM, bower, gulp, Skeleton bootstap
+ReactJS, MongoDB,Express, mongoose, Flux, NPM, bower, gulp, Skeleton bootstap
 ##Usage Instructions
 
 #To run the app
@@ -51,3 +51,5 @@ A tool used to transform JSX without any backend. Can be used in the browser. No
 A useful Browserify plugin which compiles JSX in to JavaScript as it is being browserified.
 #MongoDb
 Install Mongodb : <a href="https://www.mongodb.com/">MongoDB</a><br>
+#Isomorphic app : The future of the web development.
+This app is "isomorphic".
