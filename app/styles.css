@@ -1,0 +1,37 @@
+html {
+    color: darkslategray;
+
+
+}
+
+body {
+    padding-top: 5rem;
+    background-image: url('bg.jpg') no-repeat;
+
+
+}
+
+.purchased-false {
+      height: 40px;
+    background-color: red;
+}
+
+.purchased-true {
+      height: 40px;
+    background-color: green;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+    color: slategray;
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+
+.grocery-addItem {
+    margin-top: 1rem;
+    padding-top: 1rem;
+}
