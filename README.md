@@ -5,6 +5,8 @@ App used for cashier in stores, supermarkets that calculate and manage the produ
 ###Updating
 Authentication (sign in and log in ) users.
 Profile for each users.
+###Technologies used:
+ReactJS, MongoDB, mongoose, Flux, NPM, bower, gulp, Skeleton bootstap
 ##Usage Instructions
 
 #To run the app
