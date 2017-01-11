@@ -6,7 +6,7 @@ App used for cashier in stores, supermarkets that calculate and manage the produ
 
 #To run the app,
 
-Make sure mongodb is running in the background.(Install Mongodb : <a href="https://www.mongodb.com/">MongoDB</a><
+Make sure mongodb is running in the background.(Install Mongodb : <a href="https://www.mongodb.com/">MongoDB</a><br>
 Install global dependencies with npm install -g gulp bower react-tools browserify
 Install dependencies with npm install; bower install
 Run app with gulp serve
