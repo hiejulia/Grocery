@@ -3,7 +3,7 @@ Grocery app
 ##Idea
 App used for cashier in stores, supermarkets that calculate and manage the products from the store.
 ###Updating
-Authentication (sign in and log in ) users, Heroku hosting.
+Authentication (sign in and log in ) users, Heroku hosting, UX-UI of the app.
 Profile for each users.
 ###Technologies used:
 ReactJS, MongoDB,Express, mongoose, Flux, NPM, bower, gulp, Skeleton bootstap
