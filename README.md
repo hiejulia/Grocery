@@ -2,9 +2,12 @@
 Grocery app 
 ##Idea
 App used for cashier in stores, supermarkets that calculate and manage the products from the store.
+###Updating
+Authentication (sign in and log in ) users.
+Profile for each users.
 ##Usage Instructions
 
-#To run the app,
+#To run the app
 
 Make sure mongodb is running in the background.(Install Mongodb : <a href="https://www.mongodb.com/">MongoDB</a><br>
 Install global dependencies with :npm install -g gulp bower react-tools browserify
