@@ -15,6 +15,7 @@ Make sure mongodb is running in the background.
 Install global dependencies with :npm install -g gulp bower react-tools browserify
 Install dependencies with npm install and bower install
 Run app with gulp serve(type : gulp serve)
+Open browser: localhost:3000
 
 
 #Dispatcher
