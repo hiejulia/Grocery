@@ -11,7 +11,7 @@ ReactJS, MongoDB, mongoose, Flux, NPM, bower, gulp, Skeleton bootstap
 
 #To run the app
 
-Make sure mongodb is running in the background.(Install Mongodb : <a href="https://www.mongodb.com/">MongoDB</a><br>
+Make sure mongodb is running in the background.
 Install global dependencies with :npm install -g gulp bower react-tools browserify
 Install dependencies with npm install and bower install
 Run app with gulp serve(type : gulp serve)
@@ -48,3 +48,5 @@ A tool used to transform JSX without any backend. Can be used in the browser. No
 #Reactify
 
 A useful Browserify plugin which compiles JSX in to JavaScript as it is being browserified.
+#MongoDb
+Install Mongodb : <a href="https://www.mongodb.com/">MongoDB</a><br>
